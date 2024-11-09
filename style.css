@@ -39,6 +39,7 @@ label, legend {
 /* Legend Margin */
 legend {
     margin-bottom: 15px; /* Adds space below each legend */
+    margin: 10px;
 }
 
 /* Label Left Margin */
